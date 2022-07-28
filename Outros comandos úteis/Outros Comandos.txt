@@ -1,5 +1,4 @@
-# Comandos úteis: :bookmark_tabs:
-
+Comandos úteis: 
 - Windows + cmd
 - dir
 - cd/
