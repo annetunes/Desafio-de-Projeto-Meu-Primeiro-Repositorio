@@ -1,5 +1,5 @@
 # Desafio de Projeto Meu Primeiro Repositório! :pencil:
-Introdução ao Git e ao GitHub.
+Comandos úteis ao Git e GitHub.
 
 ##  Comandos Úteis: :pencil2:
  -  Git add *
