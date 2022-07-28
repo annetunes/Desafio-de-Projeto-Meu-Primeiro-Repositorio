@@ -1,0 +1,13 @@
+# Comandos úteis: :bookmark_tabs:
+
+- Windows + cmd
+- dir
+- cd/
+- cd ..
+- ctrl + l
+- tab
+- mkdir
+- echo >
+- rmdir
+- ls -a
+- git ind
