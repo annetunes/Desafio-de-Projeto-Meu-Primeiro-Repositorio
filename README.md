@@ -8,7 +8,7 @@ Introdução ao Git e ao GitHub.
  - Git remote add orgin 
  - Git remote -v
  - Git push origin master
- - Git pull origin master
+ - Git pull origin main
  - Git clone 
 
 ## Links Úteis: :lock_with_ink_pen:
